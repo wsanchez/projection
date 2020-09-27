@@ -1,0 +1,8 @@
+/.hypothesis
+/.tox
+/build/
+/dist/
+/htmlcov/
+/htmldocs/
+/src/*.egg-info/
+__pycache__
