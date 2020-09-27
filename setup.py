@@ -11,7 +11,7 @@ from setuptools import setup, find_packages  # noqa
 
 sys.path.insert(0, "src")
 
-from ims import __version__ as version_string  # noqa
+from projection import __version__ as version_string  # noqa
 
 
 #
